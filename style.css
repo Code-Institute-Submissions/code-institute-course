@@ -17,13 +17,13 @@ h2 {
 }
 #logo {
   float: left;
-  font-size: 280%;
+  font-size: 300%;
   margin-left: 30px;
 }
 #menu {
-  font-size: 110%;
+  font-size: 100%;
   list-style-type: none;
-  letter-spacing: 4px;
+  letter-spacing: 3px;
 }
 #logo, #menu {
   line-height: 100px;
@@ -37,10 +37,10 @@ h2 {
   color: inherit;
 }
 #menu a:hover{
-  border-bottom: 1px solid #c0c0c0
+  border-bottom: 2px solid #c0c0c0
 }
 .active {
-  border-bottom: 1px solid #c0c0c0
+  border-bottom: 2px solid #c0c0c0
 }
 #main-img {
   clear: both;
@@ -110,7 +110,7 @@ footer {
   clear: left;
   float: left;
   margin-left: 30px;
-  margin-bottom: 20px;
-  line-height: 25px;
+  margin-bottom: 15px;
+  line-height: 30px;
   }
 }
