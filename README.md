@@ -12,3 +12,5 @@ For the first user story, I split it in to 2 parts. "General information about t
 For the second user story I originally wanted to add an interactive calendar with each activity added on it's specific date. During the development of this project I realized that I couldn't get a HTML calendar to work as I wanted it without some javascripts. After alot of trial and error, I decided to forgo the calendar at this point(I will figure it out eventually), and instead create a static list of events for the next two week period. 
 
 In terms of testing the site, since it is a small static site there wasn't much testing required. It mainly focused on checking all links, site navigation and responsivness across platforms. All tests were done manually and passed without issues. 
+
+Images for this project have been sourced from https://pixabay.com
